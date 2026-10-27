@@ -1,6 +1,6 @@
 # Assignment 9: Virtual Memory Management in xv6
 
-**Student:** Shaan Shan | **Roll No:** 2402MC08 | **Course:** MA3104 (Operating Systems)
+**Student:** Shaan Mujtaba | **Roll No:** 2402MC08 | **Course:** MA3104 (Operating Systems)
 
 ---
 
